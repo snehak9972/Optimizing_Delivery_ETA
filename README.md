@@ -1,5 +1,4 @@
 # Delhivery Graph Intelligence Platform
-### IIT Guwahati · CAC — ML + Consulting
 
 ## Quick Start (3 steps)
 
